@@ -6,7 +6,7 @@ fn main() {
         println!("Good morning!");
     }
 
-    let is_evening = false; // Finish the rest of this line like the example! Or make it be false!
+    let is_evening = false; // Finish the rest of this line like the example! Or make it be false! - Agregar cuando sea falso el evento
     if is_evening {
         println!("Good evening!");
     }
